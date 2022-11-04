@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #fff;
+}
+.main-card{
+    width: 400px;
+    border-radius: 155px;
+    box-shadow: 5px 5px 5px rgb(228, 226, 226);
+}
+.cin-out{
+    display: flex;
+    justify-content: center;
+}
+#airbnb{
+    color: rgb(238, 39, 105);
+}
+.s-btn{
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(238, 39, 105);
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    color: #fff;
+    margin: 15px;
+    margin-left: 50px;
+}
+.size{
+    font-size: 13px;
+    font-weight: 700;
+}
+img{
+    width: 90%;
+    position:relative;
+    border-radius: 15px;
+}
+.box{
+    position:relative;
+    
+}
